@@ -26,7 +26,7 @@ mod 'ntp',
 
 mod 'role',
   :git => 'git@github.com:anashikkar/puppet-role.git',
-  :ref => 'master',
+  :ref => 'master'
 
 mod 'profile',
   :git => 'git@github.com:anashikkar/puppet-profile.git',
