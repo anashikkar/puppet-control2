@@ -1,0 +1,8 @@
+---
+profile::nginx::vhosts:
+ - 'fqdn': 'sniperlok5.mylabserver.com'
+   'port':80
+   'serevr_aliases':''
+ - 'fqdn': 'sniperlok5b.mylabserver.com'
+   'port':80
+   'serevr_aliases':'sniperlok5b1.mylabserver.com'
